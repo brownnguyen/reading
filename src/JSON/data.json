@@ -1,0 +1,100 @@
+{
+    "brands": [
+        {
+            "id": "kdujf983iu9cvb",
+            "name": "CHU DU",
+            "title": "Dấu giày của người chu du lúc nào cũng lấm lem, nhưng tâm hồn thì lúc nào cũng trong trẻo như hạt sương mai.",
+            "describe": " Hành trình khám phá đã bắt đầu từ lúc ta mang trong mình cái chí “chu du”. Những chiếc túi canvas đủ bụi bặm dặm trường để bạn tự do ngao du cùng trời cuối đất và vẫn đủ trang nhã để đồng hành cùng bạn đi học, đi làm, hoặc tham dự những sự kiện cần sự chỉn chu.",
+            "avatar": "../images/chudu.png"
+        },
+        {
+            "id": "kdujf983iu9fd",
+            "name": "LIFE",
+            "title": "LIFE - LÀM BẰNG TAY CHO NHỮNG BÀN TAY",
+            "describe": "Life sản xuất sổ, và chỉ sổ mà thôi. Và phải là sổ dành riêng cho người viết. Nhìn sổ của Life, người ta có thể dễ dàng hình dung ra hình ảnh một bàn tay đang viết. Bàn tay đó sẽ chạm nhẹ lên chữ Life viết bằng font chữ có chân cổ điển lóe bạc trên bìa. Bàn tay đó sẽ mướt nhẹ lên những đường may cấn hoàn toàn thủ công sau gáy. Và cũng bàn tay đó, sẽ tạo ra một câu chuyện đầy màu sắc trên những trang giấy mịn, trong nhưng không bị thấm mực bao giờ. Còn gì hợp với những bàn tay cầm bút hơn một sản phẩm được chăm chút bằng tay?",
+            "avatar": "../images/LIFE.jpg"
+        },
+        {
+            "id": "kdujf983iu9u",
+            "name": "Pilot",
+            "describe": "Pilot là thương hiệu bút máy được thành lập từ năm 1918 tại Nhật Bản. Với việc dùng tên “Pilot”, hai nhà sáng lập của hãng muốn gửi gắm mong ước có thể đưa Pilot trở thành người thuyền trưởng lèo lái con tàu đưa nền công nghiệp bút máy của đất nước mặt trời mọc vươn xa ra thế giới. Thiết kế đa dạng cùng ngòi bút được chăm chút tỉ mỉ để có thể có thể mang lại cảm giác mượt mà kể cả trên các dòng bút phổ thông, Pilot đã trở thành một trong những cái tên được những người viết tìm đến đầu tiên để mang về cây bút máy của riêng mình. ",
+            "avatar": "../images/pilot.jpg"
+        },
+        {
+            "id": "kdujf983iu9fg",
+            "name": "opus88",
+            "describe": "Opus 88 là thương hiệu bút máy đến từ Đài Loan. Bắt đầu bằng việc gia công cho những hãng bút nổi tiếng của Nhật Bản. Opus 88 mang đến cho bạn cảm giác viết nhẹ nhàng và êm tay, đến nỗi bạn cứ muốn viết mãi không thôi. Bút bơm mực theo cơ chế eyedropper truyền thống, thường xuất hiện ở những cây bút thuộc phân khúc cao cấp. Bút sử dụng ngòi JoWo bằng thép không gì được sản xuất tại Đức, cùng với dụng cụ tiếp mực bằng thủy tinh để giúp người dùng có thể bơm mực một cách dễ dàng. Piston làm từ cao su cứng ebonite cùng vòng đệm ngăn cách phần thân với ngòi bút, giúp bút không bị rò rỉ mực. Bằng cách vặn và xoay phần đuôi ở thân bút để mở, van mực sẽ chảy đến ngòi một cách dễ dàng. Nếu phải viết trong thời gian dài, thân bút lớn có thể khiến bạn kinh ngạc bởi sức chứa mực của bút. Thân bút làm từ nhựa cao cấp trong suốt giúp người dùng theo dõi được lượng mực còn lại trong bút cũng như thấy rõ ngòi bút kể cả khi đóng nắp.",
+            "avatar": "../images/opus88.jpg"
+        },
+        {
+            "id": "kdujf983iu9xz",
+            "name": "Kaweco",
+            "describe": "Kaweco là thương hiệu bút máy bỏ túi có lịch sử lâu đời, với những cây bút đầu tiên ra mắt công chúng vào năm 1883 tại Đức. Với kiểu dáng nhỏ gọn và mang đậm chất cổ điển, Kaweco là lựa chọn của rất nhiều tay viết. Trải qua hơn 130 năm cùng nhiều biến cố và thăng trầm, Kaweco vẫn cứ là điểm tựa vững chãi cho những tâm hồn cổ điển say mê bút máy, cùng chất lượng bền bỉ và phong cách thiết kế ấn tượng, mang đậm dấu ấn thời gian của mình.",
+            "avatar": "../images/kaweco.jpg"
+        },
+        {
+            "id": "8uj9e8weuwe",
+            "name": "Sailor",
+            "describe": "Sailor bắt đầu vào năm 1911 - khi Kyugoro Sakata, một kỹ sư được một người bạn Thủy thủ giới thiệu cây bút máy anh ta mua từ Anh. Ngay lập tức, người kỹ sư trẻ quyết tâm sản xuất ra loại bút máy dành riêng cho viết của Nhật Bản. Đó là một con người có khao khát và ý chí để biến mong muốn của mình thành hiện thực: tạo ra một cây bút có chất lượng tốt nhất. Và không phụ mong đợi, Sakata đã đưa được khao khát đó vào sản phẩm của mình. Hãng Sailor nổi tiếng nhất với ngòi bút. Ngòi MF (medium-fine) là cỡ ngòi đặc trưng của Sailor, tương đương cỡ ngòi F của các dòng bút máy khác, cho nét viết mảnh nhưng vẫn đủ độ sắc nét. Thông thường với ngòi mảnh, sẽ khó viết nhanh và mực dễ bị tắc, có cảm giác hơi khựng lại khi viết, nhưng với cỡ ngòi MF của Sailor, bạn vẫn có thể viết nhanh mà vẫn đều tay và không bị mất nét.",
+            "avatar": "../images/sailor.jpg"
+        },
+        {
+            "id": "8uj9e8weurty",
+            "name": "Ti Du",
+            "describe": "“Chúng tôi không bán đất sét, chúng tôi trao cho bạn những biểu tượng tâm hồn mà bạn muốn gửi gắm đến những người thân yêu. Họ có thể hiểu là bất cứ ai đó xung quanh bạn, là người yêu, người thân trong gia đình, bạn bè luôn chia sẻ vui buồn cùng bạn hoặc cũng họ chính là những cộng sự cháy hết mình trong công việc…” – Tidu Workshop",
+            "avatar": "../images/tidu.png"
+        },
+        {
+            "id": "8uj9e8weugfh",
+            "name": "Pelikan",
+            "describe": "Pelikan là thương hiệu bút máy đến từ nước Đức, và sớm khẳng định vị trí của mình khi là công ty bút máy đầu tiên phát minh ra cơ chế 'differential piston filling method' vào năm 1929, chỉ cần xoay nhẹ phần đuôi là mực sẽ tự động được bơm vào mà không cần phải dùng tới ống mực hay piston rời, thuận tiện cho bạn khi phải di chuyển nhiều.",
+            "avatar": "../images/pelikan.jpg"
+        },
+        {
+            "id": "8uj9e8weu86",
+            "name": "TWSBI",
+            "describe": "TWSBI là thương hiệu bút máy đến từ Đài Loan với lịch sử hơn 50 năm sản xuất linh kiện cho những hãng  bút máy khắp thế giới. TWS hay 'San Wen Tong' có nghĩa là “Hall of Three Cultures”, nhắc đến ba tuyệt tác thư pháp Trung Hoa được vua Càn Long trân quý và bảo vệ. “BI” có nghĩa là viết. Đặt tên như vậy, TWSBI mong muốn tạo ra những cây bút có giá trị vượt thời gian để tiếp tục viết nên những điều tốt đẹp cho cuộc sống.",
+            "avatar": "../images/twsbi.jpg"
+        },
+        {
+            "id": "8uj9e8weu87",
+            "name": "Tools to liveby",
+            "describe": "Một góc làm việc chỉn chu từ những chi tiết nhỏ nhất cũng là những gì mà “Tools to live by” - cửa hàng văn phòng phẩm đến từ Đài Loan hướng tới để tạo ra cũng như lựa chọn sản phẩm cho cửa hàng của mình. Đơn giản chỉ là những món đồ vừa bền, vừa đẹp, mang đến trải nghiệm tốt nhất mỗi ngày cho người sử dụng. Ngay khi vừa mở, cửa hàng đã nhận được tình cảm từ rất nhiều người dùng trên khắp Đài Loan cũng như quốc tế, còn được Monocle, một tờ báo có tiếng của Anh đưa tin, nhờ đó được biết đến rộng rãi trên toàn thế giới.",
+            "avatar": "../images/toolstoliveby.jpg"
+        },
+        {
+            "id": "8uj9e8weu56",
+            "name": "MIDORI",
+            "title": "“MIDORI – VẺ ĐẸP TĨNH LẶNG CỦA SỰ GIẢN ĐƠN”",
+            "describe": "Leonardo da Vinci từng nói rằng: “Đơn giản chính là tận cùng của tinh tế” (Simplicity is the ultimate of saphistication). Khi cầm trên tay sản phẩm của Midori, bạn sẽ hiểu ý nghĩa của câu nói này. Sản phẩm của Midori được giản lược tối đa nhằm mang lại cho bạn trải nghiệm trọn vẹn nhất công năng sản phẩm khi sử dụng và vì vậy bạn có thể hoàn toàn tập trung và làm thật tốt công việc của mình.",
+            "avatar": "../images/midori.jpg"
+        },
+        {
+            "id": "8uj9e8weu23",
+            "name": "CARAN D'ACHE",
+            "describe": "Câu chuyện về cái tên thương hiệu Caran d'Ache khá dễ thương. Trong khi hầu hết các công ty sản xuất bút lớn đều đặt tên thương hiệu theo họ của gia tộc mình, thì Caran d'Ache chọn đặt tên thương hiệu theo tên của nghệ sĩ, như là một phát ngôn ủng hộ cho nghệ thuật đương đại thời đầu thế kỷ 20. Caran d'Ache là bút danh của họa sĩ hoạt hình gốc Nga - ông Emmanuel Poire.",
+            "avatar": "../images/carandache.jpg"
+        },
+        {
+            "id": "8uj9e8weudf",
+            "name": "KYO NO OTO",
+            "title": "KYO NO OTO - SẮC MÀU CỦA ÂM THANH",
+            "describe": "Kyo no oto là dòng “shading ink” cao cấp đến từ Nhật Bản, được sản xuất tại Kyoto bằng những phương pháp truyền thống từ triều đại Heian cách đây hơn nghìn năm. Khi thả xuống giấy, mực sẽ thể hiện nhiều sắc độ màu sắc khác nhau, do đó nét viết sẽ thể hiện được nhiều cung bậc cảm xúc, cũng như có tính cách rõ ràng hơn.",
+            "avatar": "../images/carandache.jpg"
+        },
+        {
+            "id": "8uj9e8weutn",
+            "name": " J.HERBIN",
+            "title": "J. HERBIN - SẮC MÀU CỦA NƯỚC PHÁP",
+            "describe": "Nhắc đến Herbin, hình ảnh đầu tiên hiện lên trong đầu chúng ta là những dòng chữ thanh mảnh xếp liền kề nhau trong mảnh giấy da dê màu nâu xỉn, phía ngoài là huy hiệu đỏ đóng bằng sáp nung. Có lẽ đó là lý do tại sao nếu buộc phải dùng một từ duy nhất để nói về J.Herbin, thì đó là từ 'Pháp'. Nét Pháp của J.Herbin ẩn lịch sử thương hiệu (là thương hiệu mực cổ nhất thế giới và được sử dụng bởi nhiều người nổi tiếng, từ vua Louis XIV, Coco Chanel, đến Napoleon Bonaparte, thậm chí nhà văn Victor Hugo còn có riêng một loại mực Herbin riêng của mình); trong chất lượng sản phẩm (với độ bám màu tốt, mau khô và nguồn gốc tự nhiên); và trong thiết kế hoa lệ, thanh lịch đặc trưng. Họ thậm chí còn sản xuất dòng mực có mùi hương - Les Subtiles với 5 mùi thơm nhẹ đặc trưng của các hương nước hoa cao cấp. Đặc biệt, công đoạn hoàn thiện phần chai vẫn được thực hiện bằng tay tại Paris, Pháp.",
+            "avatar": "../images/jherbin.jpg"
+        },
+        {
+            "id": "8uj9e8weure",
+            "name": "RONG CHƠI KHẮP NƠI CÙNG SỔ TRAVELER'S",
+            "title": "RONG CHƠI KHẮP NƠI CÙNG SỔ TRAVELER'S",
+            "describe": "Nếu bạn thường hay mang theo một cuốn sổ trong những chuyến dạo chơi của mình thì một cuốn Traveler’s sẽ là một người bạn đồng hành khá chỉn chu của bạn. Giống như mỗi khi đi chơi, lúc nào cũng có đứa bạn chu tất trong ngoài, luôn giúp bạn cảm thấy yên tâm và tận hưởng chuyến đi nhiều nhất có thể thì hẳn một cuốn Traveler's là một người bạn như vậy.",
+            "avatar": "../images/travelers-company.jpg"
+        }
+    ]
+}
